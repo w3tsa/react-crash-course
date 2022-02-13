@@ -5,9 +5,17 @@
 - [ ] What is Component?
 - [ ] What is jsx?
 - [ ] What is state and props
+- [ ] How to start with React App
+  - [ ] codesandbox.io
+  - [ ] Create React App
+- [ ] Instal React App on the local machine
+- [ ] Show a message from the state on the page
 - [ ] Class Component?
   - ES6 js Class
+  - Lifecycle Methods
 - [ ] What is Functional Component?
-  - Hooks
+  - Hooks(useState, useEffect)
 - [ ] Make a Todo App with Class Component.
 - [ ] Make a Todo App with Functional Component.
+- [ ] How to style React app
+- [ ] How to structure React app
